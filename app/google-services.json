@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949303191222",
+    "project_id": "expresionexpress-2ca10",
+    "storage_bucket": "expresionexpress-2ca10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949303191222:android:ee031db8d109e9f38b2817",
+        "android_client_info": {
+          "package_name": "com.mateosa.expresionexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949303191222-ghe4nrvrhe0psddgqj10o1jm3mrfmd6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mateosa.expresionexpress",
+            "certificate_hash": "61913e8795142d7840cdb1a91ff6040bb29b7028"
+          }
+        },
+        {
+          "client_id": "949303191222-1bhcf10fjaa7fmmpr52j957icsqe6dq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTlONWUbMOrA13ILUonmtmRELGaLTfkVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949303191222-1bhcf10fjaa7fmmpr52j957icsqe6dq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

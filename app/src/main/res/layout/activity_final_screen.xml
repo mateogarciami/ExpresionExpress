@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_app"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".FinalScreenActivity">
+
+    <TextView
+        android:id="@+id/tvVictoryText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/mousememoirs"
+        android:paddingHorizontal="32dp"
+        android:shadowColor="@color/red"
+        android:shadowDx="-10"
+        android:shadowDy="14"
+        android:shadowRadius="1"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="70sp"
+        android:textStyle="bold"
+        android:text="@string/victory" />
+
+    <TextView
+        android:id="@+id/tvVictoryTeam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/mousememoirs"
+        android:paddingHorizontal="32dp"
+        android:shadowColor="@color/white"
+        android:shadowDx="-10"
+        android:shadowDy="14"
+        android:shadowRadius="1"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/red"
+        android:textSize="100sp"
+        android:textStyle="bold"
+        tools:text="Morado" />
+
+    <Button
+        android:id="@+id/btnVictoryBack"
+        android:layout_width="220sp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="100dp"
+        android:layout_marginTop="32dp"
+        android:backgroundTint="@color/white"
+        android:fontFamily="@font/mousememoirs"
+        android:text="@string/back"
+        android:textAllCaps="true"
+        android:textColor="@color/red"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/cvRed" />
+
+</LinearLayout>

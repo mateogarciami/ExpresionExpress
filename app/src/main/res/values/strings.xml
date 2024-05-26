@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Expresion Express</string>
+    <string name="app_name_first">Expresion</string>
+    <string name="app_name_second">Express</string>
+
+    <string name="play">Jugar</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="dictionary">Diccionario</string>
+    <string name="instructions">Instrucciones</string>
+    <string name="description">Gente jugando</string>
+
+    <string name="duration">Duración</string>
+    <string name="game">Partida</string>
+    <string name="short_game">Corta</string>
+    <string name="medium_game">Media</string>
+    <string name="long_game">Larga</string>
+    <string name="personalized">Personalizada</string>
+
+    <string name="red_team">Equipo rojo</string>
+    <string name="purple_team">Equipo morado</string>
+    <string name="start">Empezar</string>
+    <string name="next_word">Siguiente</string>
+    <string name="exit_confirmation">¿Seguro que vas a abandonar la partida?</string>
+    <string name="exit_confirmationyes">Sí</string>
+    <string name="exit_confirmationno">No</string>
+    <string name="back">Volver</string>
+    <string name="victory">Victoria del equipo:</string>
+    <string name="click">Haz click en el color del equipo ganador</string>
+    <string name="rotate">Gira la pantalla para empezar</string>
+
+    <string name="log">Iniciar</string>
+    <string name="in">Sesión</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="register">Registrar</string>
+    <string name="access">Acceder</string>
+    <string name="google">Iniciar sesión con Google</string>
+    <string name="anonymous">Iniciar sesión sin cuenta</string>
+    <string name="prefs_file">com.mateosa.expresionexpress.PREFERENCE_FILE_KEY</string>
+    <string name="default_web_client_id">949303191222-1bhcf10fjaa7fmmpr52j957icsqe6dq8.apps.googleusercontent.com</string>
+
+    <string name="rounds_personalized">Elige los puntos que se deberán conseguir</string>
+    <string name="accept">Aceptar</string>
+    <string name="instructions_1">Formad dos grupos pares y colocaos en círculo, intercalando uno de cada equipo</string>
+    <string name="instructions_2">La persona con el teléfono intentará que su equipo adivine la palabra que aparece sin mencionarla y sin usar otras palabras con la misma raíz</string>
+    <string name="instructions_3">Cuando su equipo adivine la palabra, pulsará el botón y pasará el móvil a la persona de su lado</string>
+    <string name="instructions_4">El equipo que tenga el teléfono cuando la alarma dejé de sonar perderá la ronda, por lo tanto, el otro equipo sumará un punto. Ganará el equipo que llegue al objetivo de puntos</string>
+
+</resources>
